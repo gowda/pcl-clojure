@@ -1,4 +1,4 @@
-# practical-clojure
+# pcl-clojure
 
 working out practical problems presented in book [Practical Common Lisp](http://www.gigamonkeys.com/book/) in clojure.
 
